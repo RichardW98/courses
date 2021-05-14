@@ -17,3 +17,7 @@ labs:
     title: Lab 102
     length-in-minutes: 20
     relative-path: lab-02
+  - id: 03-lab-103
+    title: Lab 103
+    length-in-minutes: 15
+    relative-path: lab-03
