@@ -1,39 +1,19 @@
-title: Features in PostgreSQL for Application Development
-description: A workshop to introduce features in PostgreSQL to help app. dev.
+title: John Doe Course
+description: Course description
 
 author-ids:
-  - admin
+  - Annel
 locale: en-CA
-difficulty: INTERMEDIATE
-badge-color: green
+difficulty: BEGINNER
+badge-color: blue
 badge-icon: cloud
 live: false
 labs:
-  - id: 01-running-in-containers
-    title: Running in Containers
+  - id: 01-lab-101
+    title: Lab 101
     length-in-minutes: 10
     relative-path: lab-01
-  - id: 02-adding-data
-    title: Creating Tables and Adding Data
-    length-in-minutes: 10
+  - id: 02-lab-102
+    title: Lab 102
+    length-in-minutes: 20
     relative-path: lab-02
-  - id: 03-spatial-data
-    title: Working with Spatial Data
-    length-in-minutes: 10
-    relative-path: lab-03
-  - id: 04-full-text-search
-    title: Full-text Search
-    length-in-minutes: 10
-    relative-path: lab-04
-  - id: 05-key-value
-    title: HSTORE column types
-    length-in-minutes: 10
-    relative-path: lab-05
-  - id: 06-json-data
-    title: JSON(B) column types
-    length-in-minutes: 10
-    relative-path: lab-06
-  - id: 07-r-analysis
-    title: PL/R, Using R in PostgreSQL
-    length-in-minutes: 10
-    relative-path: lab-07
