@@ -1,0 +1,39 @@
+title: Features in PostgreSQL for Application Development
+description: A workshop to introduce features in PostgreSQL to help app. dev.
+
+author-ids:
+  - admin
+locale: en-CA
+difficulty: INTERMEDIATE
+badge-color: green
+badge-icon: cloud
+live: false
+labs:
+  - id: 01-running-in-containers
+    title: Running in Containers
+    length-in-minutes: 10
+    relative-path: lab-01
+  - id: 02-adding-data
+    title: Creating Tables and Adding Data
+    length-in-minutes: 10
+    relative-path: lab-02
+  - id: 03-spatial-data
+    title: Working with Spatial Data
+    length-in-minutes: 10
+    relative-path: lab-03
+  - id: 04-full-text-search
+    title: Full-text Search
+    length-in-minutes: 10
+    relative-path: lab-04
+  - id: 05-key-value
+    title: HSTORE column types
+    length-in-minutes: 10
+    relative-path: lab-05
+  - id: 06-json-data
+    title: JSON(B) column types
+    length-in-minutes: 10
+    relative-path: lab-06
+  - id: 07-r-analysis
+    title: PL/R, Using R in PostgreSQL
+    length-in-minutes: 10
+    relative-path: lab-07
