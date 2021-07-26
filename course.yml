@@ -1,27 +1,25 @@
-title: Test Title July 26
-description: A description for testing academy & github integration jul 26
+title: Test Course
+description: GitHub mode course for Academy Enteprise demo purposes
 
 author-ids:
-  - Annel
+  - admin
 locale: en-CA
 difficulty: BEGINNER
-badge-color: blue
-badge-icon: cloud
 live: false
 labs:
-  - id: 01-lab-101
-    title: Lab 101
+  - id: 01-introduction
+    title: Introduction
     length-in-minutes: 10
     relative-path: lab-01
-  - id: 02-lab-102
-    title: Lab 102
-    length-in-minutes: 20
+  - id: 02-getting-started
+    title: Getting Started
+    length-in-minutes: 10
     relative-path: lab-02
-  - id: 03-lab-103
-    title: Lab 103
-    length-in-minutes: 15
+  - id: 03-configuration
+    title: Configuration
+    length-in-minutes: 10
     relative-path: lab-03
-  - id: 04-lab-104
-    title: Lab 104
-    length-in-minutes: 5
+  - id: 04-deployment
+    title: Deployment
+    length-in-minutes: 10
     relative-path: lab-04
